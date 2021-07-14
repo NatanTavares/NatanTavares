@@ -39,6 +39,8 @@ If you want to get in touch with me, you can reach me at **nattantavares.s15@gma
 <!-- - 📝 [Resume](https://). -->
 
 <br />
+<br />
+<br />
 
 <p align="center">
   <img src="https://madewithlove.now.sh/br?heart=true&colorB=%23009638&template=flat-square" alt="Made with love in Brazil">
