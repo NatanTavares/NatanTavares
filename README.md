@@ -39,10 +39,11 @@ If you want to get in touch with me, you can reach me at **nattantavares.s15@gma
 <!-- - 📝 [Resume](https://). -->
 
 <br />
+<br />
 
-<!-- <p align="center">
+<p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=NatanTavares&theme=blueberry_duo&hide_border=true" alt="GitHub Streak" />
-</p> -->
+</p>
 
 <br />
 
