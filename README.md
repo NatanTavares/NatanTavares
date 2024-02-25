@@ -20,7 +20,7 @@
 
 ### Glad to see you here!
 
-I have a lot of experience with Golang and Typescript, My main focus now is developing performant applications with Golang, with a touch of TypeScript.
+I have a lot of experience with Golang and Typescript, My main focus now is developing performant applications.
 
 As a software engineer, I like to use my obsessive attention to detail, my unequivocal love of doing things that change the world. That's why I like to do things that make a difference.
 
