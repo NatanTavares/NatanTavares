@@ -33,7 +33,7 @@ If you want to get in touch with me, you can reach me at **nattantavares.s15@gma
 #### Talking about Personal Stuffs:
 
 - 👨🏻‍💻 I’m currently working on something cool.
-- 🚀 I'am currently studying how to develop perfomatic applications in [rocketseat](https://rocketseat.com.br/).
+- 🚀 I'am currently studying how to develop perfomatic applications.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: **nattantavares.s15@gmail.com**.
 <!-- - 📝 [Resume](https://). -->
